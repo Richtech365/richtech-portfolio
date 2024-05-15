@@ -43,26 +43,29 @@
       </transition>
       <div appear>
         <p
-          class="mb-2 sm:text-xl md:text-2xl lg:text-3xl hover:text-xl cursor-pointer hover:animate-blob review"
+          class="review mb-2 sm:text-xl md:text-2xl lg:text-3xl hover:text-xl cursor-pointer hover:animate-blob review"
         >
-          Coding and development are not just skills they're a way of life.
+          <!-- Frontend development is more than just a skill, it's a way of life for
+          me. I'm passionate about crafting user-friendly web applications that
+          solve real problems.
+
           <br />
           Embrace the art of creation, the thrill of problem-solving,I implement
           user interface design and solve user problems using web
           technologies.<br />
-          I have 5 years of making products that solve user problems and
-          implementing responsive website.
+          With over 2 years of experience, I leverage my expertise in
+          technologies like React.js, Vue.js, and Firebase to deliver impactful
+          results. I'm constantly learning and staying up-to-date with the
+          latest advancements in the field. -->
+          I'm passionate about frontend development, it's more than just a skill
+          for me - it's a way to combine creativity with problem-solving. For
+          over 2 years, I've leveraged my skills in React.js (state management),
+          Vue.js, and Firebase to build user-friendly web applications that
+          solve real problems. I'm constantly learning and staying up-to-date
+          with the latest advancements to deliver impactful results.
         </p>
       </div>
-      <div name="animate" appear>
-        <p
-          class="mb-2 sm:text-xl md:text-2xl lg:text-3xl hover:text-xl cursor-pointer hover:animate-blob review"
-        >
-          and the journey of constant learning.
-          <br />
-          Make code your canvas, and every project a masterpiece.
-        </p>
-      </div>
+
       <div class="mt-6 flex">
         <DownloadCV></DownloadCV>
         <div
@@ -177,23 +180,14 @@
         >
           About Me 🙋
         </h1>
-        <p class="pb-10">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-          deleniti!
-        </p>
+
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit ab
-          ipsam, ex reprehenderit tenetur facere at tempore quis ratione, beatae
-          ipsa voluptas aliquid dolores in assumenda quae inventore pariatur!
-          Expedita, magni officiis repudiandae dicta corrupti culpa dolorum
-          accusamus omnis minus dolore possimus laudantium exercitationem
-          mollitia debitis doloribus quos dignissimos eius explicabo, soluta ad.
-          Vero ad reiciendis enim, fugit iure aliquam nobis officiis corporis
-          dolore voluptate expedita pariatur repellat eos rerum porro quod
-          officia laborum tempora, voluptas aperiam voluptatum quisquam?
-          Tempora, voluptas. Qui quisquam consequuntur neque nihil eveniet,
-          provident rem magnam, dolorum quam tempora iusto dolorem quae?
-          Explicabo illo sit quasi.
+          I'm passionate about frontend development, it's more than just a skill
+          for me - it's a way to combine creativity with problem-solving. For
+          over 2 years, I've leveraged my skills in React.js (state management),
+          Vue.js, and Firebase to build user-friendly web applications that
+          solve real problems. I'm constantly learning and staying up-to-date
+          with the latest advancements to deliver impactful results.
         </p>
       </div>
       <div class="flex flex-wrap -m-4">
